@@ -39,6 +39,8 @@ The SSS anomalies from January to May for 2024 show that there are negative SSS 
 Figure X. Sea Surface Temperature Anomalies in January for 2024 compared to 2001-2023 JAMSTEC data
 
 ## Code Description:
+The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
+
 
 ## Results:
 The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. 
