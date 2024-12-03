@@ -25,6 +25,10 @@ Figure X. Sea Surface Temperature in January 2001-2023
 
 Figure X. Sea Surface Temperature Anomalies for 2024 compared to 2001-2023 JAMSTEC data
 
+![image](https://github.com/user-attachments/assets/771b399f-c2af-4489-b142-b0df13246b6e)
+
+Figure X. Sea Surface Temperature Anomalies in January for 2024 compared to 2001-2023 JAMSTEC data
+
 ## Code Description:
 
 ## Results:
