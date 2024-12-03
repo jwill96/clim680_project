@@ -17,6 +17,10 @@ Figure X. The following figure shows the Sea Surface Temperature in 2024 from th
 
 Figure X. The following figure shows the Sea Surface Salinity in 2024 from the JAMSTEC Argo Float Data.
 
+![image](https://github.com/user-attachments/assets/ec6607ca-84e6-4d9a-a32b-3ebdf7e52526)
+
+Figure X. Sea Surface Temperature in January 2001-2023
+
 ## Code Description:
 
 ## Results:
