@@ -41,6 +41,7 @@ Figure X. Sea Surface Temperature Anomalies in January for 2024 compared to 2001
 ## Code Description:
 
 ## Results:
+The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. 
 
 ## Summary:
 One of the greatest challenges for working with the data that I selected was being able to work with a large set of data. The data from JAMSTEC was separated by year and month so there were over 276 files of data that I was working with.
