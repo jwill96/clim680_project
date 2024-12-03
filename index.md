@@ -23,7 +23,7 @@ Figure X. The following figure shows the Sea Surface Salinity in 2024 from the J
 
 Figure X. Sea Surface Temperature in January 2001-2023
 
-![image](https://github.com/user-attachments/assets/a271955c-eeff-44b6-9efc-393acd46ad55)
+![image](https://github.com/user-attachments/assets/ac641089-e5ea-4e48-a6d3-a0f8f4821edf)
 
 
 Figure X. Sea Surface Temperature Anomalies for 2024 compared to 2001-2023 JAMSTEC data
