@@ -14,7 +14,8 @@ The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marin
 
 Figure X. The following figure shows the Sea Surface Temperature in 2024 from the JAMSTEC Argo Float Data. Data from the website is only available up until May at this time. 
 
-![image](https://github.com/user-attachments/assets/e9c316a9-be24-4d41-8b84-1ed4cfcb035c)
+![image](https://github.com/user-attachments/assets/24b7bd8a-80a5-4b3c-8ade-bcf22666f719)
+
 
 Figure X. The following figure shows the Sea Surface Salinity in 2024 from the JAMSTEC Argo Float Data.
 
