@@ -16,3 +16,5 @@ One of the greatest challenges for working with the data that I selected was bei
 
 ## References: 
 https://www.jamstec.go.jp/argo_research/dataset/moaagpv/moaa_en.html
+https://www.cpc.ncep.noaa.gov/data/indices/ersst5.nino.mth.91-20.ascii
+https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
