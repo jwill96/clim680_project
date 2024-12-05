@@ -23,6 +23,7 @@ The following link goes to the ipynb code in github. https://github.com/jwill96/
 ![image](https://github.com/user-attachments/assets/59d75dcc-29fd-4ff6-83d9-b29f3429193c)
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
+The Nino 3.4 index was used to see which years experienced el nino, la nina, and neutral SST anomalies. 
 
 ![image](https://github.com/user-attachments/assets/cb2eaed9-2244-4104-ad1b-0b5f9c1d411b)
 
