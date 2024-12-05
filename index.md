@@ -11,10 +11,11 @@ JAMSTEC Argo Float Data:
 - standard pressure levels from 10 to 20000 dbars
 - I worked with the TOI (temperature) and SOI (salinity) variables
 - data range: 2021-2024
-https://www.jamstec.go.jp/argo_research/dataset/moaagpv/moaa_en.html
+- https://www.jamstec.go.jp/argo_research/dataset/moaagpv/moaa_en.html
 
-El nino 3.4 Data: East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W) from CPC
-https://psl.noaa.gov/data/correlation/nina34.data
+El nino 3.4 Data: 
+- East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W) from CPC
+- https://psl.noaa.gov/data/correlation/nina34.data
 
 ## Code Description:
 The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
