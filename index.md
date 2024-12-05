@@ -5,6 +5,8 @@
 ## Introduction:
 The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marine-Earth Science and Technology). The temperature and salinity profiles are obtained from Argo floats. The Argo floats drift with the ocean currents. The floats descend to 2,000 meters every 10 days and collect a vertical profile of temperature and salinity. The index that was used to compare with the JAMSTEC data was the NOAA ERSST V5 SST anomaly for Nino 3.4. Nino 3.4 is the SST for the East Central Tropical Pacific. The Nino 3.4 index is the average of SST anomalies over the region 5 degrees North to 5 degrees South and 170 degrees to 120 degrees West. 
 
+It is important to understand the Sea Surface Salinity Anomalies because they give some guidance on the surface current patterns. The salinity levels in the ocean will change the density of the water, which will impact the circulation of currents. Sea Surface Salinity levels are altered due to river run-off, precipitation, ice melting, and evaporation. 
+
 - Specific statement of the problem:
 
 What are the SST and SSS anomalies during El Nino vs. Neutral vs. La Nina and how are they different?
