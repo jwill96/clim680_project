@@ -27,22 +27,22 @@ The Nino 3.4 index was used to see which years experienced el nino, la nina, and
 
 ![image](https://github.com/user-attachments/assets/cb2eaed9-2244-4104-ad1b-0b5f9c1d411b)
 
-Figure X. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+Figure 2. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
 
 ![image](https://github.com/user-attachments/assets/d942db38-d800-4d73-b36c-d091423f5ba7)
 
-Figure X. Sea Surface Salinity Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+Figure 3. Sea Surface Salinity Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
 
 ![image](https://github.com/user-attachments/assets/07db89c5-20fb-4efd-8eb7-3a626d7f1442)
 
 
-Figure X. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
+Figure 4. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
 The SST anomalies for January, February, and March show positive anomalies in the Pacific Ocean moving toward the Gulf. The data also shows that there are positive anomalies in the Atlantic as well as the Indian Ocean. 
 
 ![image](https://github.com/user-attachments/assets/ba10cabb-b9eb-4465-90dc-131a23cf4c13)
 
 
-Figure X. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
+Figure 5. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
 The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
 
 
