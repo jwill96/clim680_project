@@ -1,4 +1,4 @@
-# Comparing Sea Surface Temperature Anomalies from JAMSTEC Argo Float Data to NOAA ERSST V5 SST anomalies for Nino 3.4. 
+# Comparing Sea Surface Temperature Anomalies and Sea Surface Salinity Anomalies from JAMSTEC Argo Float Data to NOAA ERSST V5 SST anomalies for Nino 3.4. 
 
 ## by: Jaedyn Williams
 
