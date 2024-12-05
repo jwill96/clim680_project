@@ -50,6 +50,7 @@ Figure 5. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC 
 The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
 
 ![image](https://github.com/user-attachments/assets/01846432-6668-4bc0-9567-25b1175739da)
+
 Figure 6. Difference Between SST Anomaly for 2023 Compared to the Climatology for El Nino Years found in the Nino 3.4 Index (2002, 2015, 2019, 2023)
 
 
