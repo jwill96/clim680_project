@@ -9,6 +9,8 @@ The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marin
 East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W): From CPC
 https://psl.noaa.gov/data/correlation/nina34.data
 
+## Code Description:
+The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
 
 ![image](https://github.com/user-attachments/assets/aed04650-ad3c-476c-8e80-ba76bdee8983)
 
@@ -42,8 +44,6 @@ The SSS anomalies from January to May for 2024 show that there are negative SSS 
 
 Figure X. Sea Surface Temperature Anomalies in January for 2024 compared to 2001-2023 JAMSTEC data
 
-## Code Description:
-The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
 
 
 ## Results:
