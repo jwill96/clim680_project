@@ -81,6 +81,9 @@ Figure 11. Difference Between SSS Anomaly for 2023 Compared to the Climatology f
 
 Figure 12. Difference Between SSS Anomaly for 2023 Compared to the Climatology for La Nina Years found in the Nino 3.4 Index (2007, 2008, 2011, 2021, 2022)
 
+![image](https://github.com/user-attachments/assets/e89954e0-fb05-4075-a3f3-dad6418698b8)
+
+Figure 13. Difference Between SSS Anomaly for 2023 Compared to the Climatology for Neutral Years found in the Nino 3.4 Index (2001, 2003, 2004, 2005, 2006, 2009, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2020)
 
 ## Summary:
 The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. One of the greatest challenges for working with the data that I selected was being able to work with a large set of data. The data from JAMSTEC was separated by year and month so there were over 276 files of data that I was working with.
