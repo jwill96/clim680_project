@@ -31,11 +31,11 @@ The Nino 3.4 index was used to see which years experienced el nino, la nina, and
 
 ![image](https://github.com/user-attachments/assets/cb2eaed9-2244-4104-ad1b-0b5f9c1d411b)
 
-Figure 2. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+Figure 2. Sea Surface Temperature Anomalies for 2023 compared to Climatology 2001-2022 JAMSTEC data
 
 ![image](https://github.com/user-attachments/assets/d942db38-d800-4d73-b36c-d091423f5ba7)
 
-Figure 3. Sea Surface Salinity Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+Figure 3. Sea Surface Salinity Anomalies for 2023 compared to Climatology 2001-2022 JAMSTEC data
 
 ![image](https://github.com/user-attachments/assets/07db89c5-20fb-4efd-8eb7-3a626d7f1442)
 
