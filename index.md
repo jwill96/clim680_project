@@ -6,7 +6,13 @@
 The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marine-Earth Science and Technology). The temperature and salinity profiles are obtained from Argo floats. The Argo floats drift with the ocean currents. The floats descend to 2,000 meters every 10 days and collect a vertical profile of temperature and salinity. The index that was used to compare with the JAMSTEC data was the NOAA ERSST V5 SST anomaly for Nino 3.4. Nino 3.4 is the SST for the East Central Tropical Pacific. 
 
 ## Data:
-East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W): From CPC
+JAMSTEC Argo Float Data: 
+- 1 x 1 degrees horizontal resolution
+- standard pressure levels from 10 to 20000 dbars
+- I worked with the TOI (temperature) and SOI (salinity) variables
+- data range: 2021-2024
+
+El nino 3.4 Data: East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W) from CPC
 https://psl.noaa.gov/data/correlation/nina34.data
 
 ## Code Description:
