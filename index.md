@@ -12,7 +12,7 @@ https://psl.noaa.gov/data/correlation/nina34.data
 ## Code Description:
 The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
 
-![image](https://github.com/user-attachments/assets/7815ec07-1e3a-4dbd-aab8-dd7aebcdef16)
+![image](https://github.com/user-attachments/assets/59d75dcc-29fd-4ff6-83d9-b29f3429193c)
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
 ![image](https://github.com/user-attachments/assets/e01ed0ad-68b0-4945-a9fc-abaddb21be00)
