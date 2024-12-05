@@ -16,13 +16,14 @@ The following link goes to the ipynb code in github. https://github.com/jwill96/
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
 
-![image](https://github.com/user-attachments/assets/c17d380f-4f02-483b-b053-d047758a1637)
+![image](https://github.com/user-attachments/assets/07db89c5-20fb-4efd-8eb7-3a626d7f1442)
 
 
 Figure X. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
 The SST anomalies for January, February, and March show positive anomalies in the Pacific Ocean moving toward the Gulf. The data also shows that there are positive anomalies in the Atlantic as well as the Indian Ocean. 
 
-![image](https://github.com/user-attachments/assets/9cc678a2-379b-4f9c-9d2f-513baa79fa55)
+![image](https://github.com/user-attachments/assets/ba10cabb-b9eb-4465-90dc-131a23cf4c13)
+
 
 Figure X. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
 The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
