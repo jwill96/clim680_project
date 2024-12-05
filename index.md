@@ -15,34 +15,18 @@ The following link goes to the ipynb code in github. https://github.com/jwill96/
 ![image](https://github.com/user-attachments/assets/59d75dcc-29fd-4ff6-83d9-b29f3429193c)
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
-![image](https://github.com/user-attachments/assets/e01ed0ad-68b0-4945-a9fc-abaddb21be00)
+
+![image](https://github.com/user-attachments/assets/c17d380f-4f02-483b-b053-d047758a1637)
 
 
-Figure X. The following figure shows the Sea Surface Temperature in 2024 from the JAMSTEC Argo Float Data. Data from the website is only available up until May at this time. 
-
-![image](https://github.com/user-attachments/assets/24b7bd8a-80a5-4b3c-8ade-bcf22666f719)
-
-
-Figure X. The following figure shows the Sea Surface Salinity in 2024 from the JAMSTEC Argo Float Data.
-
-![image](https://github.com/user-attachments/assets/ec6607ca-84e6-4d9a-a32b-3ebdf7e52526)
-
-Figure X. Sea Surface Temperature in January 2001-2023
-
-![image](https://github.com/user-attachments/assets/ac641089-e5ea-4e48-a6d3-a0f8f4821edf)
-
-
-Figure X. Sea Surface Temperature Anomalies for 2024 compared to 2001-2023 JAMSTEC data
+Figure X. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
 The SST anomalies for January, February, and March show positive anomalies in the Pacific Ocean moving toward the Gulf. The data also shows that there are positive anomalies in the Atlantic as well as the Indian Ocean. 
 
-![image](https://github.com/user-attachments/assets/28a97066-c830-4334-813e-cde2e10b1886)
+![image](https://github.com/user-attachments/assets/9cc678a2-379b-4f9c-9d2f-513baa79fa55)
 
 Figure X. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
 The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
 
-![image](https://github.com/user-attachments/assets/771b399f-c2af-4489-b142-b0df13246b6e)
-
-Figure X. Sea Surface Temperature Anomalies in January for 2024 compared to 2001-2023 JAMSTEC data
 
 
 
