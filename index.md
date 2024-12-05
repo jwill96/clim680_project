@@ -61,7 +61,8 @@ Figure 7. Difference Between SST Anomaly for 2023 Compared to the Climatology fo
 
 Figure 7. Difference Between SST Anomaly for 2023 Compared to the Climatology for Neutral Years found in the Nino 3.4 Index (2001, 2003, 2004, 2005, 2006, 2009, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2020)
 
-![image](https://github.com/user-attachments/assets/d242b3cb-4ca6-45a1-a702-e013ddbaf633)
+![image](https://github.com/user-attachments/assets/b1aa250b-257c-4f30-9235-7014af3d9b3c)
+
 
 Figure 8. 2023 Composite SST Anomaly Difference.
 
