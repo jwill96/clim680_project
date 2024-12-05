@@ -3,7 +3,7 @@
 ## by: Jaedyn Williams
 
 ## Introduction:
-The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marine-Earth Science and Technology). The temperature and salinity profiles are obtained from Argo floats. The Argo floats drift with the ocean currents. The floats descend to 2,000 meters every 10 days and collect a vertical profile of temperature and salinity. The index that was used to compare with the JAMSTEC data was the NOAA ERSST V5 SST anomaly for Nino 3.4. Nino 3.4 is the SST for the East Central Tropical Pacific. The initial questions that I had before doing this project were the following: Will increases in SST lower salinity? Where are SST and SSS anomalies the most present? Are there more negative or positive correlations between SST and SSS? How are the correlations different or similar between an El Nino and La Nina year? What patterns are consistent over the 23 years of data?
+The first set of data is analyzed Argo data from JAMSTEC (Japan Agency for Marine-Earth Science and Technology). The temperature and salinity profiles are obtained from Argo floats. The Argo floats drift with the ocean currents. The floats descend to 2,000 meters every 10 days and collect a vertical profile of temperature and salinity. The index that was used to compare with the JAMSTEC data was the NOAA ERSST V5 SST anomaly for Nino 3.4. Nino 3.4 is the SST for the East Central Tropical Pacific. 
 
 ## Data:
 East Central Tropical Pacific SST Mean Values (5N-5S)(170-120W): From CPC
