@@ -24,6 +24,8 @@ El Nino 3.4 Data:
 ## Code Description:
 The following link goes to the ipynb code in github. https://github.com/jwill96/clim680_project/blob/main/CLIM%20680_project.ipynb
 
+## Results:
+
 ![image](https://github.com/user-attachments/assets/59d75dcc-29fd-4ff6-83d9-b29f3429193c)
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
@@ -73,11 +75,9 @@ Figure 8. 2023 Composite SST Difference during ENSO.
 
 
 
-## Results:
-The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. 
 
 ## Summary:
-One of the greatest challenges for working with the data that I selected was being able to work with a large set of data. The data from JAMSTEC was separated by year and month so there were over 276 files of data that I was working with.
+The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. One of the greatest challenges for working with the data that I selected was being able to work with a large set of data. The data from JAMSTEC was separated by year and month so there were over 276 files of data that I was working with.
 
 ## References: 
 https://www.jamstec.go.jp/argo_research/dataset/moaagpv/moaa_en.html
