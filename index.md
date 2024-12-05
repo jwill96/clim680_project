@@ -12,7 +12,7 @@ What are the SST and SSS anomalies during El Nino vs. Neutral vs. La Nina and ho
 ## Data:
 JAMSTEC Argo Float Data: 
 - 1 x 1 degrees horizontal resolution
-- standard pressure levels from 10 to 20000 dbars
+- standard pressure levels from 10 to 2000 dbars
 - I worked with the TOI (temperature) and SOI (salinity) variables
 - data range: 2021-2024
 - https://www.jamstec.go.jp/argo_research/dataset/moaagpv/moaa_en.html
