@@ -39,15 +39,14 @@ Figure 3. Sea Surface Salinity Anomalies for 2023 compared to Climatology 2001-2
 
 ![image](https://github.com/user-attachments/assets/07db89c5-20fb-4efd-8eb7-3a626d7f1442)
 
-
-Figure 4. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
-The SST anomalies for January, February, and March show positive anomalies in the Pacific Ocean moving toward the Gulf. The data also shows that there are positive anomalies in the Atlantic as well as the Indian Ocean. 
+Figure 4. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
+The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
+ 
 
 ![image](https://github.com/user-attachments/assets/ba10cabb-b9eb-4465-90dc-131a23cf4c13)
 
-
-Figure 5. Sea Surface Salinity Anomalies for 2024 compared to 2001-2023 JAMSTEC data
-The SSS anomalies from January to May for 2024 show that there are negative SSS anomalies primarily in the Indian Ocean.
+Figure 5. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2023 JAMSTEC data
+The SST anomalies for January, February, and March show positive anomalies in the Pacific Ocean moving toward the Gulf. The data also shows that there are positive anomalies in the Atlantic as well as the Indian Ocean.
 
 ![image](https://github.com/user-attachments/assets/01846432-6668-4bc0-9567-25b1175739da)
 
