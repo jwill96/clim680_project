@@ -75,9 +75,6 @@ Figure 8. 2023 Composite SST Difference during ENSO.
 
 ![image](https://github.com/user-attachments/assets/fc076303-cbe7-491e-83b4-0ad4833f7a4a)
 
-Figure 9. 2023 Composite SST Difference during ENSO.
-
-Difference Between SSS Anomaly for 2023 Compared to the Climatology for El Nino Years found in the Nino 3.4 Index (2002, 2015, 2019, 2023)
 
 ## Summary:
 The results show that the SST and SSS anomalies for 2024 compared to the 2001-2023 climatology data have a negative correlation. When there are positive SST anomalies in certain regions, there are negative SSS anomalies present. The negative SSS anomalies are the largest in the Indian Ocean even though the largest positive SST anomalies are seen in the Pacific and Atlantic Oceans. One of the greatest challenges for working with the data that I selected was being able to work with a large set of data. The data from JAMSTEC was separated by year and month so there were over 276 files of data that I was working with.
