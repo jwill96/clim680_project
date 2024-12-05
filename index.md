@@ -16,6 +16,14 @@ The following link goes to the ipynb code in github. https://github.com/jwill96/
 
 Figure 1. Shows the SST anomalies for Nino 3.4. 
 
+![image](https://github.com/user-attachments/assets/cb2eaed9-2244-4104-ad1b-0b5f9c1d411b)
+
+Figure X. Sea Surface Temperature Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+
+![image](https://github.com/user-attachments/assets/d942db38-d800-4d73-b36c-d091423f5ba7)
+
+Figure X. Sea Surface Salinity Anomalies for 2024 compared to Climatology 2001-2022 JAMSTEC data
+
 ![image](https://github.com/user-attachments/assets/07db89c5-20fb-4efd-8eb7-3a626d7f1442)
 
 
