@@ -79,7 +79,7 @@ Figure 11. Difference Between SSS Anomaly for 2023 Compared to the Climatology f
 
 ![image](https://github.com/user-attachments/assets/f6d853b1-8481-4310-8a3c-62b4323df544)
 
-
+Figure 12. Difference Between SSS Anomaly for 2023 Compared to the Climatology for La Nina Years found in the Nino 3.4 Index (2007, 2008, 2011, 2021, 2022)
 
 
 ## Summary:
