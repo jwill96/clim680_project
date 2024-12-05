@@ -60,18 +60,26 @@ Figure 7. Difference Between SST Anomaly for 2023 Compared to the Climatology fo
 
 ![image](https://github.com/user-attachments/assets/c7b5e0a9-2f7f-4e26-b683-3e0d1f2d4c19)
 
-Figure 7. Difference Between SST Anomaly for 2023 Compared to the Climatology for Neutral Years found in the Nino 3.4 Index (2001, 2003, 2004, 2005, 2006, 2009, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2020)
+Figure 8. Difference Between SST Anomaly for 2023 Compared to the Climatology for Neutral Years found in the Nino 3.4 Index (2001, 2003, 2004, 2005, 2006, 2009, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2020)
 
 ![image](https://github.com/user-attachments/assets/8156b519-af83-4e1f-80b4-e0517f953d54)
 
 
-Figure 8. 2023 Composite SST Anomaly Difference.
+Figure 9. 2023 Composite SST Anomaly Difference.
 
 The plot on the left shows the difference between the 2023 SST Anomaly data and the SST Anomaly data for the El Nino Years found from the Nino 3.4 index. The positive difference from the average SST in the Pacific Ocean shows that the anomaly data for 2023 is less than the average anomaly data from the El Nino years. The plot in the middle shows that the 2023 SST Anomaly in the Pacific Ocean is greater than the average anomaly data from La Nina years. The plot on the right shows the difference between the SST anomaly in 2023 from the average anomaly data from the neutral years in the Nino 3.4 index. 
 
 ![image](https://github.com/user-attachments/assets/91a51c29-d89b-471f-b610-1d548447e6a1)
 
-Figure 8. 2023 Composite SST Difference during ENSO.
+Figure 10. 2023 Composite SST Difference during ENSO.
+
+![image](https://github.com/user-attachments/assets/398b0645-057b-46c7-9325-a470a35d738c)
+
+Figure 11. Difference Between SSS Anomaly for 2023 Compared to the Climatology for El Nino Years found in the Nino 3.4 Index (2002, 2015, 2019, 2023)
+
+![image](https://github.com/user-attachments/assets/f6d853b1-8481-4310-8a3c-62b4323df544)
+
+
 
 
 ## Summary:
